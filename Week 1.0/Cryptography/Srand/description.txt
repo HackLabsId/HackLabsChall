@@ -1,0 +1,6 @@
+Desc:
+
+I've just studied C language and now I must
+study a Snake language -_- ?
+
+And what the heck is a seed ..?

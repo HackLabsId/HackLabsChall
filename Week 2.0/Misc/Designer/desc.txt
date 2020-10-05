@@ -1,0 +1,16 @@
+Desc
+--------------------------------------------------------
+
+Archie is an online 'architect'. He has mastered CorelDraw, Photoshop,
+and even he studied GNU Plot.
+
+One day, he made a design in online sites but he forgot the extension
+of the file, so he doesn't know what type of the file is it with a
+lot of coordinates within. Can you help Archie to recover the image design?
+
+All the coordinates are in ( X , Y ) with unknown G-likely-array (?).
+
+--------------------------------------------------------
+
+Notes: This challenge is not "cyber-based" at all, you just need to find
+       the matched extensions and the coordinates PLOT only :).

@@ -1,0 +1,16 @@
+Desc
+------------------------------------------------------
+
+On the last message, I was totally trolled because the file IS
+NOT A VIRUS.
+It's just a plain-text message. 
+Now the challenge is real, he'd like to give me a neat Rev challenge.
+
+....
+
+And now should I brute-force the pass ? -_-
+Or maybe ..
+
+------------------------------------------------------
+
+Hint #1: Carefull, it's not based on C language, yet still a 'family'.

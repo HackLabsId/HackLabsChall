@@ -1,0 +1,7 @@
+How Hot Is It? (Med-Hard)
+	Chunny merupakan ahli Geologi, namun dia butuh bantuan kalian untuk mengecek Brightness Temperature (Channel 21/22) dari foto yang terlampir karena Chunny harus segera pergi ke suatu tempat lain pada tanggal 28 September kemarin, dapatkah kalian membantu Chunny mendapatkan berapa derajat Brightness Temperature (Channel 21/22)nya agar ia tidak ditegur oleh atasannya?
+format flag : ubah spasi menjadi '_'
+
+Hint 1 : it has been said, its in the past
+Hint 2 : you know it is a sattelite image right?
+Hint 3 : use Terra and Aqua / MODIS layers

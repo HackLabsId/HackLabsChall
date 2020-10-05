@@ -1,0 +1,15 @@
+Desc
+------------------------
+
+Annoyed by the woman in red before, Sherlock and I kept following her
+until she disappeared.
+On the next day, a crowd just popped out from nowhere looking at a trail of blood
+that leads to a corpse near the harbour. It is the woman in red.
+
+When the forensics team arrived, they found a small USB that contains a few files.
+Sherlock and I never saw that files before, can you help us?
+
+
+Hint #1: Sometimes, the killer will leave its special signatures move. What could it be?
+
+Hint #2: Guido van Rossum might helps you in this case.

@@ -1,0 +1,9 @@
+Catch The Ride (Medium)
+	Interpol mencurigai seorang bernama Mang Oleh, dan Interpol ingin menyadap rumah Mang Oleh, namun hal itu tidak bisa dilakukan sembarangan karna Mang Oleh sering menghabiskan waktunya di rumah dan hanya pergi ketika hari Kamis pagi-pagi sekali ke london, dan ketika Interpol menggunakan drone untuk memantau, drone tersebut dirusak orang dan hanya satu foto yang dapat direcover, dapatkah kamu memmbantu interpol mencari tahu kapan kereta pertama berangkat? 
+
+format flag = HACKLABS{stationName_nameofRailwayService_firstTraintime(hh:mm)}
+
+Hint 1 = Railway Servicesnya singkatan aja
+Hint 2 = Railway Servicenya ditemukan pada tahun 1833 di Bristol
+
+note : flagnya untuk yang didalam bracket huruf kecil semuanya

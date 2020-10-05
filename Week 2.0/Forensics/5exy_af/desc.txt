@@ -1,0 +1,16 @@
+Deskripsi
+-------------------------------------------------------------------
+(Indonesian)
+
+Seorang ahli matematika hanya menyukai angka 5, karena dia berkemampuan untuk menjadi 10. 
+Jadi dia suka menyisipkan 5 diantara sampah. Dengan angka 5 di otak, ia menyisipkan data tersembunyi. 
+Bisakah anda melihatnya?
+
+File Challenge:
+https://mega.nz/file/uJxjCKoB#2OtnpRyZGd8LWH10mz5HEmEp6YFEkchM2oMcPD4gXMw
+(Chall diupload Author ke sini, mohon maaf sebelumnya :) )
+
+--------------------------------------------------------------------
+
+Hint : Menurut Anda, angka-angka tersebut merepresentasikan apa?
+       Ingat, ini bukan kriptografi :).

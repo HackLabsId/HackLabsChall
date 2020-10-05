@@ -1,0 +1,47 @@
+Desc
+-------------------------------
+
+It's already been a week since the woman in red
+died.
+
+A strange enigma have made the town feel frightened
+as a strange human-figure convinced me and Sherlock that
+he comes from the future.
+He managed to go back to 18th Century to collect a lot 
+of informations about the death of the woman in red. He has
+a lot of sophisticated tools like 'foremost' in order to
+recover a broken images, which believed taken by the forensics teams.
+
+At that time, the figures's world is attacked by a cyber-attack virus
+called ILOVEYOU.
+This virus can overwrite a single files within a minute, and luckily
+the images of the woman in red was taken when the accident happen, and it is NOT 
+OVERWRITTEN.
+If you can recover the files correctly, we might get the next clues to
+the death of the woman in red.
+
+The strange figures believed that the killer IS NOT the zodiac killer, 
+he just imitates the way that he kills.
+
+Can you help us again?
+
+-------------------------------
+
+
+Hint #1 : Use a carving tools or do a manual carve to get the files.
+
+Hint #2 : The ILOVEYOU virus have a header that starts with \xc6\x32\xa3\x87\x76 and so on.
+          There are 3 evidences files which are two pictures and one .gif files.
+
+Hint #3 : Altough the ILOVEYOU virus managed to attack all the three files,
+          the strange figure told us that at the END OF JUNKDATAS of the virus
+          , it leaves a mark "ILOVEYOU" strings. However, additional datas after the
+          "ILOVEYOU" strings will be changed by a random common strings.
+          When you've carved the files correctly, you may notice that the file signatures
+          are CHANGED because of the virus. 
+
+-------------------------------
+
+
+
+ 

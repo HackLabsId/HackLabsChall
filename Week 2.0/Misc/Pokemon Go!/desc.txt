@@ -1,0 +1,20 @@
+Desc
+--------------------------------------------------------------------
+
+Himaru and Tsubasa love to play Pokemon Go!. They have been a fan of the
+game since a year ago and have joined the Online Community.
+
+One day, the mysterious 'taskmaster' gave them a mini-game.
+If they can find the secret message from the given file, they
+will win a Legendary Pokemon!
+
+Help them to uncover the secret messages from the file!
+
+
+----------------------------------------------------------------------
+
+Hint #1: The file is encrypted with unknown password.
+         I think we should try "brute-force" method that is related to the challenge (?).
+
+Hint #2: Have you ever heard of esoteric languages?
+         It's a custom-made for sure!

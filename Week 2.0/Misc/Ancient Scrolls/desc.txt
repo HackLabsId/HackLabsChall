@@ -1,0 +1,18 @@
+Desc
+-----------------------------------------------------
+
+Hello Players! We meet again.
+Last year, Fei Mei, a friend of mine from Shangri-La,
+gave me a piece of file that contain something from
+1000 years ago. She said that it's very special
+but she couldn't open it because her grandpa, Ip Man, locked
+the file in 1900s after studying how valuable a file is.
+
+Altough the password has been given, it's wrapped
+with weird chinese letterings and I couldn't understand
+them at all.
+Can you help me?
+------------------------------------------------------
+
+Hint #1: She convinced me that it's NOT a pure Chinese
+         letterings.

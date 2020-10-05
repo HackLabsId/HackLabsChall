@@ -1,0 +1,17 @@
+Desc
+----------------------------------------------------------------------------
+
+Snow White is actually alive until now. She is disguised as the
+Cyber Army PENTAGON in U.S. One day, her commander, Lucille Van
+Verne, gave her a very simple task. It's an encrypted text so that
+she has to decrypt it as fast as she could.
+
+Can you help her?
+
+-----------------------------------------------------------------------------
+
+Hint #1: Snow White has a loyal assistant and he's a chef :).
+         Don't believe me?
+
+Hint #2: The commander loves to use reversible encryption. Be careful!
+         You need to look from different angles.

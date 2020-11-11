@@ -1,0 +1,3 @@
+#1 : nothing is alike
+#2 : assemble the flag starting with the format and all hash seperated by underscore
+HACKLABS{hash1_hash2_hash3_hash4}

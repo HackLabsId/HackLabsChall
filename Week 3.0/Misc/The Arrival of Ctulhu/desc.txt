@@ -1,0 +1,28 @@
+Desc
+--------------------------------------------
+
+We need your help immediately. Apollo36 has just launched 20 minutes
+ago with its brand new turbo flight rocket-machine and we lost its contact.
+
+10 minutes before the interrupted signals, we received this weird 
+transmission sounds from the nearest orbit of the rocket. It's very
+impossible to hear the trumpets-likely sound from the sky, or is it
+a very large sound that can't be detected by a mere humans?
+
+--------------------------------------------
+
+Hint: I heard from the expertise that the transmission that was used has 
+these following frequencies:
+
+
+Band	        Frequency	                Sideband
+80 meters	3.845 MHz (3.73 in Europe)	LSB
+43 meters	6.925 MHz (Pirate Radio)	USB
+40 meters	7.17 MHz (7.165 in Europe)	LSB
+20 meters	14.23 MHz	                USB
+15 meters	21.34 MHz	                USB
+10 meters	28.68 MHz	                USB
+11 meters	27.7 MHz (Pirate Radio)	        USB
+
+
+They called it Slow Scan Television. :) ... 

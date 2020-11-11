@@ -1,0 +1,5 @@
+# Flag is divided into 3 parts
+
+#1 Round around the globe
+#2 If b64 is 4/3? what is 5/4?
+#3 Fun Language

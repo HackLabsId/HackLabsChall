@@ -1,0 +1,8 @@
+Iron Bird (Easy)
+	sekelompok teroris ingin melakukan rencana pengeboman pada suatu tempat, dan FBI hanya memiliki foto tempat yang ditargetkan tersebut, sayangnya foto tersebut luntur terkena air ketika hujan kemarin, bisakah kamu membantu FBI untuk mencari tahu di mana lokasi yang ditargetkan oleh sekelompok teroris itu.
+
+format flag : HACKLABS{...}
+	setiap "spasi" diganti dengan "_"
+
+hint 1 : FBI ada di?
+hint 2 : {redacted}

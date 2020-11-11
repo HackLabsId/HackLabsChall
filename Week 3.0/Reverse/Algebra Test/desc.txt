@@ -1,0 +1,15 @@
+Desc
+------------------------------------------
+
+On a scale of 1-10,
+how many of you think that math is super easy?
+Do you know the implementation of Differential Linear Algebra in 
+Reverse Engineering?
+
+------------------------------------------
+
+No hints available :(
+But you may use a certain Decompiler to view the
+"assembled" source-code :D
+
+Good luck!

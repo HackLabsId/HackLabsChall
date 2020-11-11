@@ -1,0 +1,9 @@
+Guard Your Fountain - Easy
+
+Selain ahli geologi, Chunny juga penggemar Esports, 5 tahun lalu dia mengidolakan salah satu player di salah satu team, namun Chunny sedih karna team tersebut tidak memenangkan turnamen terbesar pada tahun tersebut. Dan karna sekarang Chunny mempunyai waktu luang yang banyak, ia ingin sekali menonton kembali player idolanya, tapi ia tidak ingat nama dari player tersebut, yang ia tahu bahwa player tersebut sudah keluar dari timnya dulu. bisa kah kalian membantu Chunny mencari nama dari player tersebut pada saat ini?
+
+format flag = HACKLABS{Nickname_sign.hero_currRole}
+
+Hint 1 : 3 tahun setelah turnamen tersebut, player ini memenangkan 2 turnamen yang sama secara berturut
+
+Hint 2 : pada 5 tahun lalu player ini berada di tim yang memiliki nama dengan salah satu judul lagu pada link berikut https://pastebin.com/iCarLYZm

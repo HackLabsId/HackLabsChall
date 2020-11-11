@@ -1,0 +1,6 @@
+Bird Flying High - Medium
+	Aseng yang merupakan ahli komputer harus pergi dari Zurich menuju ke Copenhagen, tiba-tiba pukul 4:35 PM UTC, Aseng melihat dari jendela pesawatnya bahwa terdapat asap pekat membumbung tinggi dari daratan di bawahnya. saat sampai di Copenhagen, Aseng sangat penasaran mengenai asap yang dilihatnya tersebut, dapatkah kalian melacak kota terdekat saat itu di mana asap itu berasal?
+
+Hint 1 : Aseng hanya ingat bahwa pesawat yang dinaikinya memiliki logo inverted red cross
+
+format flag : HACKLABS{namalokasilowecase}

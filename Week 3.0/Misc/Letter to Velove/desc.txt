@@ -1,0 +1,16 @@
+Desc
+----------------------------------------
+
+Bucky, has been deployed to Russia to take
+another mission from the President. In order to
+make sure everything's okay so his wife will not be worried,
+he always sends her a letter regularly. But one day,
+when his wife, Velove sent the replied-letter back to
+him, he's confused because all the contents of the letter
+are pretty much the same as the one he sent to her.
+
+Hint #1: There's something weird in the letter. Look at those
+         spaces .., probably there are a hidden message (?).
+
+HInt #2: She told him last time that he probably need his name in
+         lowercase. It's a password for him. Hmm ... it's a "little bit snowy" down here.

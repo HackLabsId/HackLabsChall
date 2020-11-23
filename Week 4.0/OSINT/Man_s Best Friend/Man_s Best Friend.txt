@@ -1,0 +1,12 @@
+Man's Best Friend
+Sherpa merupakan anjing jenis Alaskan Malamute yang selalu ceria dan menggemaskan, namun tiba-tiba saja Sherpa menghilang secara misterius, dan petunjuk yang dimiliki saat ini adalah video yang bisa kalian download di samping ini, dapatkah kalian melacak di manakah lokasi tersebut?
+
+Hint : 
+untuk memudahkan pencarian, berikut tertulis alamat kota nya:
+PO Box 158
+St Ives
+Cornwall
+TR26 9AR
+England
+
+Format Flag : HACKLABS{...} (setiap 'spasi' diubah menjadi '_')

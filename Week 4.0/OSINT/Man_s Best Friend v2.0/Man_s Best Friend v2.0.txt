@@ -1,0 +1,9 @@
+Man's Best Friend v2.0 - Hard
+after a month of search, Sherpa is still missing! and suddenly the kidnapper call the owner and tell him to pay some ransom money. the first call happened 10 minutes ago and the owner claim the backsound of kidnapper voice is so noisy like he is inside a urban area (like there is a honking car, angry pedestrian, etc.), and the second call happened 1 minute ago and now the owner claim there is some kind of heavy machine for building material at the backsound of the kidnapper voice. could you help the owner to locate the name of nearest cell tower of the second call?
+
+hint 1 : the County where the kidnapper last location is near something that will make you tear
+hint 2 : from point A to B  = approx. 11 KM | from point B to C = approx. 9-10 KM | from point C to A = approx. 3-4 KM
+
+use this link to locate Sherpa! = https://www.google.com/maps/d/u/0/embed?mid=1omU4OEZ3rZVn5odrFQHx3f8j8Hk&ie=UTF8&hl=en&msa=0&ll=36.74693320291154%2C-89.46782692017719&spn=1.778506%2C3.691406&output=embed&s=AARTsJos169eE5sL0hsQLYLq8mFm7aWDSQ&z=8
+
+Format Flag = HACKLABS{..._..} (case sensitive, and change 'space' with '_')

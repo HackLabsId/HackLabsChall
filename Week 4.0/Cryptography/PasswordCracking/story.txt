@@ -1,0 +1,7 @@
+Timmie just learn about hashing, but it seems he lost the password he use for his hashing algorithm nor he remember the hashing he uses. Can you help him to get back his password?
+
+Here's some description for Timmie
+
+Timmie is a teen who live in Indonesia since he was a child and have a pet dog named Alex. Now he is currently studying Cryptograpy in Binus university. But he doesn't understand what is going on, so he tried to learn from other sources. not long somebody suggested Hacklabs for him to learn the fundamental of CTF. In there he can learn Binex from DarkAngel, Forensic from Bigby and Aseng, Cryptography from EternalBeats, Osint from Opacite, and the jack of all trade 1blis. Now his studies from Binus curriculum seems to become easier.
+
+hash: 16d4f3f8a1710b03ee3747877848e94cfec3dcc89eb32b82b0989f18db49e30e
